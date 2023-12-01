@@ -1,0 +1,8 @@
+[workspace]
+resolver = "2"
+members = [
+    "emuhelper",
+    "huc6280",
+    "pcengine",
+    "pcengine-test"
+]
